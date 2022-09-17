@@ -31,8 +31,8 @@
       
    __Run the server__
    
-      npx react-native start
+      npm start
       
    __Install the app on the emulator or on your phone__
    
-      npx react-native run-android || npx react-native run-ios
+      this is an expo app, when metro bundler opens, you can select what do you want to.
